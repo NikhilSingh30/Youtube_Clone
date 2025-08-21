@@ -1,5 +1,5 @@
 import Sidebar from "./Sidebar";
-import Mainsec from "./Mainsec";
+
 import { Outlet } from "react-router-dom";
 const Body = () =>{
     return (

@@ -1,10 +1,10 @@
 import { Provider } from "react-redux";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Store from "./assets/Redux";
-import Body from "./components/Body";
-import Mainsec from "./components/Mainsec";
-import Watch from "./components/Watch";
-import Layout from "./components/Layout";
+import Body from "./Components/Body";
+import Mainsec from "./Components/Mainsec";
+import Watch from "./Components/Watch";
+import Layout from "./Components/Layout";
 import Video from "./Components/Video";
 import Display_Video_Card from "./Components/displayVideoCard";
 
